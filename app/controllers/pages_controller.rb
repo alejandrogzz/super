@@ -1,4 +1,4 @@
 class PagesController < ApplicationController
-  def superman
+  def batmanvssuperman
   end
 end
